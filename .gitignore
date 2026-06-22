@@ -12,3 +12,4 @@
 # Node / PHP
 node_modules/
 vendor/
+.password-prod
