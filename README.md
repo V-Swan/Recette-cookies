@@ -1,6 +1,4 @@
 # recette-cookies
-<<<<<<< HEAD
-=======
 # Recette-cookies
 # Recette-cookies
 Une recette gourmande :p
@@ -12,4 +10,4 @@ Une recette gourmande :p
 - 100g de chocolat noir
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
->>>>>>> 28ab21df762cd0170c11be61501cf5c9ad2da29f
+
