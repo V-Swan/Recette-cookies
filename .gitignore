@@ -1,0 +1,14 @@
+# Fichiers système
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Linux / fichiers temporaires
+*.swp
+*~
+
+# Node / PHP
+node_modules/
+vendor/
